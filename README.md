@@ -1,7 +1,8 @@
 ## Pa-Auk Meditation Manual Course Book &amp; others
 
-I lost many GB (nearly all) of digital Dhamma resources recently on my storage devices. Anicca!
-I had to manually collect them again which took time and efforts. So now I try to "back up/log" online some of the important resources. Due to my Internet data package limit, I can not upload all.
+Recently I lost many GB (nearly all) of digital Dhamma resources on my storage devices.
+
+I had to manually collect them again which took time and efforts. So now I try to "back up/log" online some of the important resources. Due to my Internet data package limit, I can not upload all here.
 
 
 ### Pa-Auk Meditation Manual (new font)
