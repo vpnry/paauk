@@ -37,4 +37,4 @@ Pa-Auk_Meditation_Manual
 
 For other eBooks, you can check this size [https://www.paaukforestmonastery.org/ebooks](https://www.paaukforestmonastery.org/ebooks)
 
-+ May you all be well and happy!
+### May you all be well and happy!
