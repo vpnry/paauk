@@ -2,10 +2,9 @@
 
 ### Pa-Auk Meditation Manual (new font)
 
-[Download all (~ 6.1 MB)](https://vpnry.github.io/paauk/docs/Pa-Auk_Meditation_Manual.zip)
++ [Download all (~ 6.1 MB)](https://vpnry.github.io/paauk/docs/Pa-Auk_Meditation_Manual.zip)
 
-If the above link does not work, try this link (same content):
-`https://github.com/vpnry/paauk/raw/main/docs/Pa-Auk_Meditation_Manual.zip`
++ If the above link does not work, try this link (same content): `https://github.com/vpnry/paauk/raw/main/docs/Pa-Auk_Meditation_Manual.zip`
 
 + It consists of the following eBooks:
 
