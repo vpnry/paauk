@@ -1,5 +1,9 @@
 ## Pa-Auk Meditation Manual Course Book &amp; others
 
+I lost many GB (nearly all) of digital Dhamma resources recently on my storage devices. Anicca!
+I had to manually collect them again which took time and efforts. So now I try to "back up/log" online some of the important resources. Due to my Internet data package limit, I can not upload all.
+
+
 ### Pa-Auk Meditation Manual (new font)
 
 + [Download all (~ 6.1 MB)](https://vpnry.github.io/paauk/docs/Pa-Auk_Meditation_Manual.zip)
@@ -9,7 +13,7 @@
 + It consists of the following eBooks:
 
 ```
-1 directory, 14 files
+1 directory, 13 files
 
 Pa-Auk_Meditation_Manual
 ├── 01 Samatha and Rupa(A5).pdf
@@ -22,7 +26,6 @@ Pa-Auk_Meditation_Manual
 ├── 14 Ways En-Ch.pdf
 ├── 14 Ways Singhalese.pdf
 ├── NUTRIMENT- BORN MATERIALITY.pdf
-├── Nibbana_sammary_Pali (23.92019).pdf
 ├── Nutriment-born(Revised19.12.2012)5(Lg+A4).pdf
 ├── Recollection of Past Lives by Abhinna Etc.pdf
 └── Rupa+Nama Tables (all) 10.pdf
