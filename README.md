@@ -1,11 +1,11 @@
-## Pa-Auk Meditation Manual Course Book &amp; others
+## Pa-Auk Tawya Meditation Manual Course Book &amp; others
 
 Recently I lost many GB (nearly all) of digital Dhamma resources on my storage devices.
 
 I had to manually collect them again which took time and efforts. So now I try to "back up/log" online some of the important resources. Due to my Internet data package limit, I can not upload all here.
 
 
-### Pa-Auk Meditation Manual (new font)
+### Pa-Auk Tawya Meditation Manual (new font)
 
 + [Download all (~ 6.1 MB)](https://vpnry.github.io/paauk/docs/Pa-Auk_Meditation_Manual.zip)
 
