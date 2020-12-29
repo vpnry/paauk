@@ -35,6 +35,6 @@ Pa-Auk_Meditation_Manual
 
 ### Other Dhamma materials
 
-For other eBooks, you can check this size [https://www.paaukforestmonastery.org/ebooks](https://www.paaukforestmonastery.org/ebooks)
+For other eBooks, you can check this site: [https://www.paaukforestmonastery.org/ebooks](https://www.paaukforestmonastery.org/ebooks)
 
 ### May you all be well and happy!
