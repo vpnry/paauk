@@ -1,11 +1,6 @@
 ## Pa-Auk Tawya Meditation Manual Course Book &amp; others
 
-Recently I lost many GB (nearly all) of digital Dhamma resources on my storage devices.
-
-I had to manually collect them again which took time and efforts. So now I try to "back up/log" online some of the important resources. Due to my Internet data package limit, I can not upload all here.
-
-
-### Pa-Auk Tawya Meditation Manual (new font)
+### Pa-Auk Tawya Meditation Manual (new font)  
 
 + [Download all (~ 6.1 MB)](https://vpnry.github.io/paauk/docs/Pa-Auk_Meditation_Manual.zip)
 
@@ -33,8 +28,15 @@ Pa-Auk_Meditation_Manual
 
 ```
 
+### Pa-Auk Tawya Meditation Chart in Various Languages  
+
+Download [Pa-Auk Tawya Meditation Charts](https://github.com/vpnry/paauk-chart)
+
 ### Other Dhamma materials
 
-For other eBooks, you can check this site: [https://www.paaukforestmonastery.org/ebooks](https://www.paaukforestmonastery.org/ebooks)
++ For other eBooks, you can check this site: [https://www.paaukforestmonastery.org/ebooks](https://www.paaukforestmonastery.org/ebooks)
 
-### May you all be well and happy!
++ Website [International Pa-Auk Tawya Society](https://paauksociety.org)
+
+
+** May you all be well and happy!**
