@@ -59,10 +59,10 @@ Download Pa-Auk Tawya Meditation Charts [from this repo](https://github.com/vpnr
 
 ### 1. နိဗ္ဗာနဂါမိနိပဋိပဒါ Path Leading to Nibbāna (in Burmese/Myanmar language) 
 
-+ [Download နိဗ္ဗာနဂါမိနိပဋိပဒါ all vols (~ 30.4 MB)](https://vpnry.github.io/paauk/docs/PAS_Nibbanagamini_Myanmar_5BigVols_and_9Brief_vols.zip)
++ [Download နိဗ္ဗာနဂါမိနိပဋိပဒါ nibbānagāminipaṭipadā - all vols (~ 30.4 MB)](https://vpnry.github.io/paauk/docs/PAS_Nibbanagamini_Myanmar_5BigVols_and_9Brief_vols.zip)
 
 
-This zip file contains both the 5 big volumes and the 9 brief volumes of "နိဗ္ဗာနဂါမိနိပဋိပဒါ (Path Leading to Nibbāna)".
+This zip file contains both the 5 big volumes and the 9 brief volumes of "နိဗ္ဗာနဂါမိနိပဋိပဒါ (Path Leading to Nibbāna - Nibbānagāminipaṭipadā)".
 
 
 ```text 
